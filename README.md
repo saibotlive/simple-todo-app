@@ -22,6 +22,6 @@ A Todo List application built with React, Redux, TypeScript, Material UI, and Ta
 1. Clone the repository:
 
    ```sh
-   git clone git@github.com:your-username/my-todo-app.git
-   cd my-todo-app
+   git clone git@github.com:saibotlive/simple-todo-app.git
+   cd simple-todo-app
    ```
