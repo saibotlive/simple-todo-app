@@ -1,6 +1,6 @@
-# Simple Todo List App
+# Simple To Do List App
 
-A Todo List application built with React, Redux, TypeScript, Material UI, and Tailwind CSS. This application allows users to add, edit, delete, and toggle todos.
+A To-do List application built with React, Redux, TypeScript, Material UI, and Tailwind CSS. This application allows users to add, edit, delete, and toggle todos.
 
 ## Features
 

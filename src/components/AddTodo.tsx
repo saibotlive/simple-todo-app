@@ -16,17 +16,17 @@ const AddTodo: React.FC = () => {
   };
 
   return (
-    <div className="flex space-x-4 mb-4">
+    <div className="flex space-x-3 mb-4">
       <TextField
-        label="Add new todo"
+        label="Add new to-do"
         variant="outlined"
         value={text}
         onChange={(e) => setText(e.target.value)}
         fullWidth
         inputProps={{ 'aria-label': 'add new todo' }}
       />
-      <Button variant="contained" color="primary" onClick={handleAddTodo}>
-        Add Todo
+      <Button className="!min-w-40" variant="contained" color="primary" onClick={handleAddTodo}>
+        Add To-do
       </Button>
     </div>
   );
